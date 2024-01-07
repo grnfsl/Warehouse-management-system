@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Warehouse Management</string>
+    <string name="server_client_id">896057729402-23gb2q906m1j2nilgj3maj2pgu7sbni5.apps.googleusercontent.com</string>
+
+    <string-array name="warehouses">
+        <item>Gdansk</item>
+        <item>Warsaw</item>
+    </string-array>
+
+</resources>
